@@ -1,15 +1,16 @@
 # Ignorar archivos de imagen para no subirlos al servidor
-*.jpg
-*.png
-*.jpeg
-*.gif
-*.svg
-*.bmp
-*.tiff
-*.webp
-*.ico
-*.zip
-__pycache__/
+**/*.jpg
+**/*.png
+**/*.jpeg
+**/*.gif
+**/*.svg
+**/*.bmp
+**/*.tiff
+**/*.webp
+**/*.ico
+**/*.zip
+**/__pycache__/
+**/*.json
 
 # env
 *.env
