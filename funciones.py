@@ -5,7 +5,6 @@ from PIL import Image
 import uuid
 import hashlib
 import re
-from funciones import print_colored
 
 
 def json_data(path):

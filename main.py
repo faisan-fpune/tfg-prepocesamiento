@@ -1,4 +1,5 @@
-from controllers.preprocesamiento import preprocesar_imagenes,print_colored,get_cantidad_etiquetas
+from controllers.preprocesamiento import preprocesar_imagenes,get_cantidad_etiquetas
+from funciones import print_colored
 import os
 
 
